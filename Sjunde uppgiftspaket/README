@@ -1,0 +1,58 @@
+Övningar för vecka 7
+
+Uppgifterna finns i filerna
+  E1.java
+  DiceModel.java
+  DiceView.java
+  DiceController.java
+  E5.java
+  DiceView2.java
+  DiceController2.java
+  E8.java
+och ska lösas i den ordning. Bonus uppgiften finns i en egen mapp.
+
+Filerna dice1.gif ... dice6.gif har bilder på tärning sidor och behövs
+för uppgiften i filen DiceView2.java.
+
+Varje uppgift förklaras i en inledande kommentar.
+Tänk på att använda det vi har presenterat under kursens alla veckor:
+  * Många operationer och några metoder för att bygga upp uttryck i olika typer.
+  * if- och switch kommandon
+  * for- och while kommandon
+  * tilldelning och System.out.println
+  * fält
+  * standard input
+  * omdirigering av standard input och standard output
+  * statiska metoder,
+  * klasser som programbibliotek
+  * att rita från ett Java program
+  * att använda datatyper (mest Color och Picture).
+  * att definiera egna datatyper.
+  * enkla användargränssnitt programmerade enligt MVC mönstret.
+
+Lös uppgifterna genom att ändra i respektive java-fil.
+Ändra inte filnamnet!
+
+Börja alltid med att kompilera filen och köra programmet
+innan du löser uppgiften.
+
+När du har löst en uppgift ska du kompilera. För att och köra och testa din
+lösning av uppgifterna 3 och 4 behöver du E5. För att köra och testa din
+lösning av uppgifterna 6 och 7 behöver du E8.
+
+När du har löst alla uppgifter packar du alla java-filer
+i en zip fil och laddar upp zip-filen i Blackboard.
+
+Om du behöver förklara något kan du använda en kommentar i java-filen.
+I så fall måste du skriva en eller flera fullständiga meningar på korrekt
+svenska eller engelska. Filen måste fortfarande gå att kompilera.
+
+Uppgifterna i filerna E1.java, DiceModel.java, DiceView.java,
+DiceController.java, E5.java, DiceView2.java, DiceController2.java
+och E8.java bildar Del 1.
+
+Uppgiften i mappen Bonus är Del 2 (bonus poäng för tentan,
+gäller bara om Del 1 är godkänd)
+
+Lösningar som inte kompilerar eller som lämnas in på annat sätt än
+hur det beskrevs ovan, blir inte godkända.
