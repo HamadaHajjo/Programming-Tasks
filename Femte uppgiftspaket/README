@@ -1,0 +1,50 @@
+Övningar för vecka 5
+
+Uppgifterna finns i filerna E1.java till E9.java plus Bonus.java.
+
+Filerna e1.png till e9.png samt blurred.png och sharp.png
+är exempel av att köra programmen för uppgifterna.
+
+Filerna StdDraw.java, Picture.java och Luminance.java (från kursboken)
+behövs för visa uppgifter, därför finns de med.
+
+Filen baboon.jpg (från kursboken) används som indata för  flera
+program, därför finns den med.
+
+Varje uppgift förklaras i en inledande kommentar.
+Tänk på att använda det vi har presenterat under första,  andra,
+tredje, fjärde och femte veckorna:
+  * Många operationer och några metoder för att bygga upp uttryck i olika typer.
+  * if- och switch kommandon
+  * for- och while kommandon
+  * tilldelning och System.out.println
+  * fält
+  * standard input
+  * omdirigering av standard input och standard output
+  * statiska metoder,
+  * klasser som programbibliotek
+  * att rita från ett Java program
+  * att använda datatyper (mest Color och Picture).
+
+Lös uppgifterna genom att ändra i respektive java-fil.
+Ändra inte filnamnet!
+
+Börja alltid med att kompilera filen och köra programmet
+innan du löser uppgiften.
+
+När du har löst en uppgift ska du kompilera och köra igen
+för att testa din lösning.
+
+När du har löst alla uppgifter packar du alla java-filer
+i en zip fil och laddar upp zip-filen i Blackboard.
+
+Om du behöver förklara något kan du använda en kommentar i java-filen.
+I så fall måste du skriva en eller flera fullständiga meningar på korrekt
+svenska eller engelska. Filen måste fortfarande gå att kompilera.
+
+Uppgifterna i E1.java till E9.java  bildar Del 1 (måste lösas för godkänd).
+Uppgiften i Bonus.java är Del 2
+(bonus poäng för tentan, gäller bara om Del 1 är godkänd)
+
+Lösningar som inte kompilerar eller som lämnas in på annat sätt än
+hur det beskrevs ovan, blir inte godkända.
